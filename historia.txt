@@ -5,5 +5,6 @@ y diseñar
 y leer
 y salir
 y otras cosas más
+como por ejemplo programar
 
 Como estás, estoy agregando un cambio a el archivo
