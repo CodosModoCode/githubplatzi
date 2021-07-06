@@ -9,3 +9,7 @@ body{
     margin: 0 auto;
     border: 2px rgba(0, 0, 0, 0.096) solid;
 }
+#cabecera h1{
+    text-align: center;
+    color: chocolate;
+}
